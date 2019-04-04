@@ -1,7 +1,15 @@
 *{
     text-align:center;
     box-sizing:border-box;
-  
+}
+.btn-link:hover{
+    text-decoration:none;
+    
+    color:#999999;
+}
+.btn-link{
+    color:orange;   
+}
 
 }
 hr{
@@ -12,14 +20,18 @@ hr{
     padding-left: 0px;   
 }
 
-.faqAnswer{
+
+/* old slider in js */
+
+/* .faqAnswer{
 
   border:1px solid #d2d2d2;
   
- 
-}
+} 
 
-.faqAnswer a{
+
+.faqAnswer a
+{
     
     color:orange;
     padding:10px;
@@ -53,3 +65,4 @@ hr{
 }
 
 
+ */

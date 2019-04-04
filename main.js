@@ -1,4 +1,4 @@
-document.getElementsByClassName('container')[0].addEventListener('click',function(e){
+/* document.getElementsByClassName('container')[0].addEventListener('click',function(e){
     
     if(e.target.matches('a')){
          const paragraphs = document.querySelectorAll('.container p'); 
@@ -11,5 +11,5 @@ document.getElementsByClassName('container')[0].addEventListener('click',functio
     };
     
     });
-
+ */
 
